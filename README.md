@@ -1,3 +1,4 @@
+```bash
 RAYMOND@Raymond MINGW64 ~/New folder/expo-doctor-example (master)
 $ npx expo-doctor --verbose
 expo-doctor: v1.19.8
@@ -48,7 +49,4 @@ Ok to proceed? (y)
       react: 19.2.0 => 19.2.0 
       react-native: 0.83.6 => 0.83.6 
     Expo Workflow: managed
-
-
-RAYMOND@Raymond MINGW64 ~/New folder/expo-doctor-example (main)
-$ 
+```
